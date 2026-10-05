@@ -58,7 +58,7 @@
 ### 安装依赖
 
 ```bash
-git clone https://github.com/zjwsoft/langgraph-pro.git
+git clone https://github.com/MicroMirror/langgraph-pro.git
 cd langgraph-pro
 uv sync
 ```
